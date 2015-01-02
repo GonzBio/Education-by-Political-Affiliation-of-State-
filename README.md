@@ -16,3 +16,5 @@ Data are provided for the 50 most populous cities according to the most recent C
 A 90 percent confidence interval for each estimate can be found at High school graduates ages 25 to 29 who have completed a bachelor's degree or higher.
 
 ###Official Results for 2012 Elections [link](http://www.fec.gov/pubrec/fe2012/federalelections2012.pdf)
+Using this data, each state was labelled as republican (R) or democrat (d).  
+The data obtained from KIDS COUNT Data Center was compared to the results of the 2012 elections.
