@@ -1,7 +1,6 @@
 Education-by-Political-Affiliation-of-State-
 ============================================
-Data obtained from KIDS COUNT Data Center 
-Link to website [link](http://datacenter.kidscount.org/data/tables/78-high-school-graduates-ages-25-to-29-who-have-completed-a-bachelors-degree-or-higher?loc=1&loct=1)
+Data obtained from KIDS COUNT Data Center [link](http://datacenter.kidscount.org/data/tables/78-high-school-graduates-ages-25-to-29-who-have-completed-a-bachelors-degree-or-higher?loc=1&loct=1)
 
 DEFINITIONS & SOURCES by KIDS COUNT Data Center 
 
