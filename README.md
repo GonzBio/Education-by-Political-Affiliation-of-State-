@@ -1,6 +1,6 @@
 Education-by-Political-Affiliation-of-State-
 ============================================
-Data obtained from KIDS COUNT Data Center [link](http://datacenter.kidscount.org/data/tables/78-high-school-graduates-ages-25-to-29-who-have-completed-a-bachelors-degree-or-higher?loc=1&loct=1)
+###Data obtained from KIDS COUNT Data Center [link](http://datacenter.kidscount.org/data/tables/78-high-school-graduates-ages-25-to-29-who-have-completed-a-bachelors-degree-or-higher?loc=1&loct=1)
 
 DEFINITIONS & SOURCES by KIDS COUNT Data Center 
 
@@ -15,3 +15,4 @@ N.A. – Data not available.
 Data are provided for the 50 most populous cities according to the most recent Census counts.  Cities for which data is collected may change over time.
 A 90 percent confidence interval for each estimate can be found at High school graduates ages 25 to 29 who have completed a bachelor's degree or higher.
 
+###Official Results for 2012 Elections [link](http://www.fec.gov/pubrec/fe2012/federalelections2012.pdf)
