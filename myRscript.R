@@ -1,3 +1,5 @@
+library(dplyr)
+library(ggplot2)
 #dataset downloaded from KIDS COUNT data center
 data <- read.csv("./HighSchoolGrads.csv")
 #the rows showing percent were extracted
