@@ -9,7 +9,7 @@ meanStates <- dataStates %>%
   group_by(Location) %>%
   summarise(mean(Data))
 #deleted row containing data from Puerto Rico and USA (national data)
-meanStates1 <- meanStates[-c(40, 46)]
+meanStates1 <- meanStates[-c(40, 46),]
 #dataset containing results of general elections by State
 GeneralElections <- read.csv("./GeneralElections.csv")
 #added column containing mean percentage of of high school students earning a bachelor or higher degree from 2000 to 2012 to dataset with the results of general elections in 2012
